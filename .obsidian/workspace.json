@@ -57,14 +57,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plain Note.md",
+                "file": "Page With Supercharged Link and Frontmatter Links.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "48ef069882990108",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Page with Supercharged Link and Frontmatter Links but the Links are in different fields.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plain Note.md",
+                "file": "Page with Supercharged Link and Frontmatter Links but the Links are in different fields.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plain Note.md",
+                "file": "Page with Supercharged Link and Frontmatter Links but the Links are in different fields.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plain Note.md"
+                "file": "Page with Supercharged Link and Frontmatter Links but the Links are in different fields.md"
               }
             }
           }
@@ -191,11 +203,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5e93936264542031",
+  "active": "48ef069882990108",
   "lastOpenFiles": [
-    "Page With Supercharged Link and Frontmatter Links.md",
-    "Page With Supercharged Link.md",
     "Page With Supercharged Link and only one Frontmatter Link.md",
-    "Plain Note.md"
+    "Page with Supercharged Link and Frontmatter Links but the Links are in different fields.md",
+    "Page With Supercharged Link and Frontmatter Links.md",
+    "Plain Note.md",
+    "Page With Supercharged Link.md"
   ]
 }
